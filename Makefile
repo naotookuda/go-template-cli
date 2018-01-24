@@ -1,4 +1,4 @@
 build:
-	go build -o build/gt -i
+	go build -o bin/gt -i
 clean:
 	rm -rdf build
